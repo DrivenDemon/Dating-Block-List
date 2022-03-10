@@ -13,3 +13,4 @@
 0.0.0.0 farmersonly.com
 0.0.0.0 eharmony.com
 0.0.0.0 elitesingles.com
+0.0.0.0 magescripts.pw
